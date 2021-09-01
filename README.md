@@ -1,5 +1,4 @@
 # Centering_cropping
-Centering_cropping
 
 This algorithm allows us to perform a centering and croppings.
 
